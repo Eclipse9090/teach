@@ -1,0 +1,30 @@
+D:\Homework4\Task 2 Array\Task 2 Array\obj\Debug\net6.0\Task 2 Array.csproj.AssemblyReference.cache
+D:\Homework4\Task 2 Array\Task 2 Array\obj\Debug\net6.0\Task 2 Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Homework4\Task 2 Array\Task 2 Array\obj\Debug\net6.0\Task 2 Array.AssemblyInfoInputs.cache
+D:\Homework4\Task 2 Array\Task 2 Array\obj\Debug\net6.0\Task 2 Array.AssemblyInfo.cs
+D:\Homework4\Task 2 Array\Task 2 Array\obj\Debug\net6.0\Task 2 Array.csproj.CoreCompileInputs.cache
+D:\Homework4\Task 2 Array\Task 2 Array\bin\Debug\net6.0\Task 2 Array.exe
+D:\Homework4\Task 2 Array\Task 2 Array\bin\Debug\net6.0\Task 2 Array.deps.json
+D:\Homework4\Task 2 Array\Task 2 Array\bin\Debug\net6.0\Task 2 Array.runtimeconfig.json
+D:\Homework4\Task 2 Array\Task 2 Array\bin\Debug\net6.0\Task 2 Array.dll
+D:\Homework4\Task 2 Array\Task 2 Array\bin\Debug\net6.0\Task 2 Array.pdb
+D:\Homework4\Task 2 Array\Task 2 Array\obj\Debug\net6.0\Task 2 Array.dll
+D:\Homework4\Task 2 Array\Task 2 Array\obj\Debug\net6.0\refint\Task 2 Array.dll
+D:\Homework4\Task 2 Array\Task 2 Array\obj\Debug\net6.0\Task 2 Array.pdb
+D:\Homework4\Task 2 Array\Task 2 Array\obj\Debug\net6.0\Task 2 Array.genruntimeconfig.cache
+D:\Homework4\Task 2 Array\Task 2 Array\obj\Debug\net6.0\ref\Task 2 Array.dll
+D:\teach\Homework 4\Task 2 Array\Task 2 Array\obj\Debug\net6.0\Task 2 Array.csproj.AssemblyReference.cache
+D:\teach\Homework 4\Task 2 Array\Task 2 Array\obj\Debug\net6.0\Task 2 Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\teach\Homework 4\Task 2 Array\Task 2 Array\obj\Debug\net6.0\Task 2 Array.AssemblyInfoInputs.cache
+D:\teach\Homework 4\Task 2 Array\Task 2 Array\obj\Debug\net6.0\Task 2 Array.AssemblyInfo.cs
+D:\teach\Homework 4\Task 2 Array\Task 2 Array\obj\Debug\net6.0\Task 2 Array.csproj.CoreCompileInputs.cache
+D:\teach\Homework 4\Task 2 Array\Task 2 Array\obj\Debug\net6.0\Task 2 Array.dll
+D:\teach\Homework 4\Task 2 Array\Task 2 Array\obj\Debug\net6.0\refint\Task 2 Array.dll
+D:\teach\Homework 4\Task 2 Array\Task 2 Array\obj\Debug\net6.0\Task 2 Array.pdb
+D:\teach\Homework 4\Task 2 Array\Task 2 Array\bin\Debug\net6.0\Task 2 Array.exe
+D:\teach\Homework 4\Task 2 Array\Task 2 Array\bin\Debug\net6.0\Task 2 Array.deps.json
+D:\teach\Homework 4\Task 2 Array\Task 2 Array\bin\Debug\net6.0\Task 2 Array.runtimeconfig.json
+D:\teach\Homework 4\Task 2 Array\Task 2 Array\bin\Debug\net6.0\Task 2 Array.dll
+D:\teach\Homework 4\Task 2 Array\Task 2 Array\bin\Debug\net6.0\Task 2 Array.pdb
+D:\teach\Homework 4\Task 2 Array\Task 2 Array\obj\Debug\net6.0\Task 2 Array.genruntimeconfig.cache
+D:\teach\Homework 4\Task 2 Array\Task 2 Array\obj\Debug\net6.0\ref\Task 2 Array.dll

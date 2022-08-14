@@ -1,0 +1,30 @@
+D:\Homework4\Task 3 double array\Task 3 double array\obj\Debug\net6.0\Task 3 double array.csproj.AssemblyReference.cache
+D:\Homework4\Task 3 double array\Task 3 double array\obj\Debug\net6.0\Task 3 double array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Homework4\Task 3 double array\Task 3 double array\obj\Debug\net6.0\Task 3 double array.AssemblyInfoInputs.cache
+D:\Homework4\Task 3 double array\Task 3 double array\obj\Debug\net6.0\Task 3 double array.AssemblyInfo.cs
+D:\Homework4\Task 3 double array\Task 3 double array\obj\Debug\net6.0\Task 3 double array.csproj.CoreCompileInputs.cache
+D:\Homework4\Task 3 double array\Task 3 double array\bin\Debug\net6.0\Task 3 double array.exe
+D:\Homework4\Task 3 double array\Task 3 double array\bin\Debug\net6.0\Task 3 double array.deps.json
+D:\Homework4\Task 3 double array\Task 3 double array\bin\Debug\net6.0\Task 3 double array.runtimeconfig.json
+D:\Homework4\Task 3 double array\Task 3 double array\bin\Debug\net6.0\Task 3 double array.dll
+D:\Homework4\Task 3 double array\Task 3 double array\bin\Debug\net6.0\Task 3 double array.pdb
+D:\Homework4\Task 3 double array\Task 3 double array\obj\Debug\net6.0\Task 3 double array.dll
+D:\Homework4\Task 3 double array\Task 3 double array\obj\Debug\net6.0\refint\Task 3 double array.dll
+D:\Homework4\Task 3 double array\Task 3 double array\obj\Debug\net6.0\Task 3 double array.pdb
+D:\Homework4\Task 3 double array\Task 3 double array\obj\Debug\net6.0\Task 3 double array.genruntimeconfig.cache
+D:\Homework4\Task 3 double array\Task 3 double array\obj\Debug\net6.0\ref\Task 3 double array.dll
+D:\teach\Homework 4\Task 3 double array\Task 3 double array\bin\Debug\net6.0\Task 3 double array.exe
+D:\teach\Homework 4\Task 3 double array\Task 3 double array\bin\Debug\net6.0\Task 3 double array.deps.json
+D:\teach\Homework 4\Task 3 double array\Task 3 double array\bin\Debug\net6.0\Task 3 double array.runtimeconfig.json
+D:\teach\Homework 4\Task 3 double array\Task 3 double array\bin\Debug\net6.0\Task 3 double array.dll
+D:\teach\Homework 4\Task 3 double array\Task 3 double array\bin\Debug\net6.0\Task 3 double array.pdb
+D:\teach\Homework 4\Task 3 double array\Task 3 double array\obj\Debug\net6.0\Task 3 double array.csproj.AssemblyReference.cache
+D:\teach\Homework 4\Task 3 double array\Task 3 double array\obj\Debug\net6.0\Task 3 double array.GeneratedMSBuildEditorConfig.editorconfig
+D:\teach\Homework 4\Task 3 double array\Task 3 double array\obj\Debug\net6.0\Task 3 double array.AssemblyInfoInputs.cache
+D:\teach\Homework 4\Task 3 double array\Task 3 double array\obj\Debug\net6.0\Task 3 double array.AssemblyInfo.cs
+D:\teach\Homework 4\Task 3 double array\Task 3 double array\obj\Debug\net6.0\Task 3 double array.csproj.CoreCompileInputs.cache
+D:\teach\Homework 4\Task 3 double array\Task 3 double array\obj\Debug\net6.0\Task 3 double array.dll
+D:\teach\Homework 4\Task 3 double array\Task 3 double array\obj\Debug\net6.0\refint\Task 3 double array.dll
+D:\teach\Homework 4\Task 3 double array\Task 3 double array\obj\Debug\net6.0\Task 3 double array.pdb
+D:\teach\Homework 4\Task 3 double array\Task 3 double array\obj\Debug\net6.0\Task 3 double array.genruntimeconfig.cache
+D:\teach\Homework 4\Task 3 double array\Task 3 double array\obj\Debug\net6.0\ref\Task 3 double array.dll
