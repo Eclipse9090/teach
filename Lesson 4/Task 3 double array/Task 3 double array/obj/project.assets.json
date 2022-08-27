@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\teach\\Homework 4\\Task 3 double array\\Task 3 double array\\Task 3 double array.csproj",
+      "projectUniqueName": "D:\\teach\\Lesson 4\\Task 3 double array\\Task 3 double array\\Task 3 double array.csproj",
       "projectName": "Task 3 double array",
-      "projectPath": "D:\\teach\\Homework 4\\Task 3 double array\\Task 3 double array\\Task 3 double array.csproj",
+      "projectPath": "D:\\teach\\Lesson 4\\Task 3 double array\\Task 3 double array\\Task 3 double array.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "D:\\teach\\Homework 4\\Task 3 double array\\Task 3 double array\\obj\\",
+      "outputPath": "D:\\teach\\Lesson 4\\Task 3 double array\\Task 3 double array\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

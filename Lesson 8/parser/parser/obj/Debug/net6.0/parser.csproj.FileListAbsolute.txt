@@ -1,0 +1,15 @@
+D:\parser\parser\obj\Debug\net6.0\parser.csproj.AssemblyReference.cache
+D:\parser\parser\obj\Debug\net6.0\parser.GeneratedMSBuildEditorConfig.editorconfig
+D:\parser\parser\obj\Debug\net6.0\parser.AssemblyInfoInputs.cache
+D:\parser\parser\obj\Debug\net6.0\parser.AssemblyInfo.cs
+D:\parser\parser\obj\Debug\net6.0\parser.csproj.CoreCompileInputs.cache
+D:\parser\parser\bin\Debug\net6.0\parser.exe
+D:\parser\parser\bin\Debug\net6.0\parser.deps.json
+D:\parser\parser\bin\Debug\net6.0\parser.runtimeconfig.json
+D:\parser\parser\bin\Debug\net6.0\parser.dll
+D:\parser\parser\bin\Debug\net6.0\parser.pdb
+D:\parser\parser\obj\Debug\net6.0\parser.dll
+D:\parser\parser\obj\Debug\net6.0\refint\parser.dll
+D:\parser\parser\obj\Debug\net6.0\parser.pdb
+D:\parser\parser\obj\Debug\net6.0\parser.genruntimeconfig.cache
+D:\parser\parser\obj\Debug\net6.0\ref\parser.dll
